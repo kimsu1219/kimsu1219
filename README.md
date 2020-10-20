@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![suyeon's github stats](https://github-readme-stats.vercel.app/api?username=kimsu1219&hide=contribs,prs)
+
 <!--
 **kimsu1219/kimsu1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
